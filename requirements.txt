@@ -1,0 +1,5 @@
+aiogram>=3.13,<4
+openai>=1.40,<4
+google-genai>=1.0,<4
+python-dotenv>=1.0,<2
+pydantic>=2.5,<3
